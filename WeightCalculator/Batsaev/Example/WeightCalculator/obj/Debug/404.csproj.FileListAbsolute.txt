@@ -1,0 +1,23 @@
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\404.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\_404.Form1.resources
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\_404.Properties.Resources.resources
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\404.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\404.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\bin\Debug\404.exe.config
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\bin\Debug\404.exe
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\bin\Debug\404.pdb
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\404.exe
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\404.pdb
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\_404.Form2.resources
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\_404.Form3.resources
+C:\Users\student\Desktop\Алиев Шамиль 21ис-20\404\404\404\obj\Debug\_404.Спонсор_бегуна.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\404.csproj.AssemblyReference.cache
+D:\21-ИС-20\main14-main\404\404\obj\Debug\_404.Form1.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\_404.Form2.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\_404.Form3.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\_404.Properties.Resources.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\_404.Спонсор_бегуна.resources
+D:\21-ИС-20\main14-main\404\404\obj\Debug\404.csproj.GenerateResource.cache
+D:\21-ИС-20\main14-main\404\404\obj\Debug\404.csproj.CoreCompileInputs.cache
+D:\21-ИС-20\main14-main\404\404\obj\Debug\404.exe
+D:\21-ИС-20\main14-main\404\404\obj\Debug\404.pdb
